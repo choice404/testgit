@@ -4,7 +4,7 @@ See end of file for extended copyright information
 """
 def main():
     # Enter code here
-    print("testGit created")
+    print("your mom")
 
 if __name__ == '__main__':
     main()
